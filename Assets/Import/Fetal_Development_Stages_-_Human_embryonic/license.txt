@@ -1,0 +1,8 @@
+Model Information:
+* title:	Fetal Development Stages - Human embryonic
+* source:	https://sketchfab.com/3d-models/fetal-development-stages-human-embryonic-17dd4aefa7864af89333e9acd162ccff
+* author:	Nima Heydari (https://sketchfab.com/h3ydari96)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
